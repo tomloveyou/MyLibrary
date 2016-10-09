@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="transparent_background">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="voip_interface_text_color">#bababa</color>
+
+    <color name="line">@color/grey_300</color>
+    <color name="primary_text">@color/grey_800</color>
+    <color name="secondary_text">@color/grey_400</color>
+
+    <color name="grey_40">#666666</color>
+    <color name="grey_50">#FAFAFA</color>
+    <color name="grey_80">#F3F3F3</color>
+    <color name="grey_90">#F5F5F5</color>
+    <color name="grey_100">#F6F6F6</color>
+    <color name="grey_200">#EEEEEE</color>
+    <color name="grey_300">#DCDCDC</color>
+    <color name="grey_400">#B8B8B8</color>
+    <color name="grey_500">#959595</color>
+    <color name="grey_600">#757575</color>
+    <color name="grey_700">#616161</color>
+    <color name="grey_800">#434343</color>
+    <color name="grey_900">#212121</color>
+
+</resources>

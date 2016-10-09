@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ui_10_dip">10dp</dimen>
+    <dimen name="durateioin_size_8">-8dp</dimen>
+    <dimen name="durateioin_size1">1dp</dimen>
+    <dimen name="durateioin_size2">2dp</dimen>
+    <dimen name="durateioin_size5">5dp</dimen>
+    <dimen name="durateioin_size8">8dp</dimen>
+    <dimen name="durateioin_size15">15dp</dimen>
+    <dimen name="durateioin_size16">16dp</dimen>
+    <dimen name="durateioin_size18">18dp</dimen>
+    <dimen name="durateioin_size20">20dp</dimen>
+    <dimen name="durateioin_size25">25dp</dimen>
+    <dimen name="durateioin_size28">28dp</dimen>
+    <dimen name="durateioin_size30">30dp</dimen>
+
+    <dimen name="durateioin_size36">36dp</dimen>
+    <dimen name="durateioin_size40">40dp</dimen>
+    <dimen name="durateioin_size45">45dp</dimen>
+    <dimen name="durateioin_size48">48dp</dimen>
+    <dimen name="durateioin_size50">50dp</dimen>
+    <dimen name="durateioin_size55">55dp</dimen>
+    <dimen name="durateioin_size60">60dp</dimen>
+    <dimen name="durateioin_size67">67dp</dimen>
+    <dimen name="durateioin_size70">70dp</dimen>
+    <dimen name="durateioin_size80">80dp</dimen>
+    <dimen name="durateioin_size86">86dp</dimen>
+    <dimen name="durateioin_size90">90dp</dimen>
+    <dimen name="durateioin_size98">98dp</dimen>
+    <dimen name="durateioin_size100">100dp</dimen>
+    <dimen name="durateioin_size120">120dp</dimen>
+    <dimen name="durateioin_size130">130dp</dimen>
+    <dimen name="durateioin_size200">200dp</dimen>
+    <dimen name="text_size8">8sp</dimen>
+    <dimen name="text_size10">10sp</dimen>
+    <dimen name="text_size12">12sp</dimen>
+    <dimen name="text_size14">14sp</dimen>
+    <dimen name="text_size16">16sp</dimen>
+    <dimen name="text_size18">18sp</dimen>
+    <dimen name="text_size20">20sp</dimen>
+    <dimen name="text_size22">22sp</dimen>
+</resources>

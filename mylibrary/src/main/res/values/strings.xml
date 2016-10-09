@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">In客</string>
+
+    <!-- 判断联网 -->
+    <string name="judeg_networking_msg">网络不给力，请检查网络</string>
+    <string name="progressdialog_text">加载中……</string>
+    <string name="judeg_notwifi_show">建议您使用WIFI以减少流量！</string>
+    <string name="com_network_requestFailed">网络请求错误</string>
+    <string name="com_network_statusError">服务器返回状态异常</string>
+    <string name="com_pleaseWait">请稍后</string>
+    <string name="com_loading">正在努力加载中……</string>
+    <string name="com_onSubmit">正在提交</string>
+</resources>
